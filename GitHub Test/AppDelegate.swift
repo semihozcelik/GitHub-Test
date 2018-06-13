@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHub Test
-//
-//  Created by Semih Ozcelik on 6/13/18.
-//  Copyright © 2018 BSS. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
